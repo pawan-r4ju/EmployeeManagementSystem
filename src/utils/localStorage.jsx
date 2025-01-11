@@ -205,8 +205,8 @@ const employees = [
 
 const admin = [{
     "id": 1,
-    "email": "admin@example.com",
-    "password": "123"
+    "email": "pawanunknown4@gmail.com",
+    "password": "Pawan123"
 }];
 
 export const setLocalStorage = ()=>{
